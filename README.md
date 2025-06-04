@@ -4,8 +4,11 @@ This project aims to implement from scratch the vanila EKF SLAM algorithm in a s
 
 ## Demo
 
-[![](demo.png)](https://www.youtube.com/watch?v=xXo5oBYnuxE)
-Click on the image for the video demo. The loop closure can be seen around 18 sec.
+
+https://github.com/user-attachments/assets/834cad4b-b9d1-43a8-8861-2a32e0be58a7
+
+
+
 
 ## Setup
 The Turtlebot3 Burger is used for simulation in a custom Gazebo world. The landmarks of the environment consist of cylinders whose centers serve as the landmark coordinates. 
